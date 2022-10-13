@@ -1,0 +1,7 @@
+{
+  "name": "primeiro_app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}

@@ -1,0 +1,6 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "primeiro_app",
+  "webDir": "public",
+  "bundledWebRuntime": false
+}
